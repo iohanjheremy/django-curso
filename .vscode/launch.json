@@ -14,7 +14,7 @@
             ],
             "django": true,
             "autoStartBrowser": false,
-            "program": "${workspaceFolder}\\secao-4\\manage.py"
+            "program": "${workspaceFolder}\\manage.py"
         }
     ]
 }
